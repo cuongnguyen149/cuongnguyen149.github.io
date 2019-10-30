@@ -1,0 +1,18 @@
+.detais-page{
+    height: 100%;
+    width: 100%;
+}
+.left-content{
+    background-color: teal;
+    height: 100%;
+}
+
+.right-content{
+    background-color:rebeccapurple;
+    height: 100%;
+}
+
+.detais-avatar{
+    width: 200px;
+    height: 200px;
+}
